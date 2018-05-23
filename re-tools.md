@@ -96,6 +96,7 @@ Uncategorized
 * [blacknbunny/peanalyzer - Advanced Portable Executable File Analyzer And Disassembler](https://github.com/blacknbunny/peanalyzer)
 * [agustingianni/symrepl - a small utility that helps you investigate the type information inside binaries](https://github.com/agustingianni/symrepl)
 * [NetSPI/PESecurity - PowerShell module to check if a Windows binary (EXE/DLL) has been compiled with ASLR, DEP, SafeSEH, StrongNaming, and Authenticode](https://github.com/NetSPI/PESecurity)
+* [HarmJ0y/pylnker - a Python port of lnk-parse-1.0, a tool to parse Windows .lnk files](https://github.com/HarmJ0y/pylnker)
 
 Protocol / traffic analysis
 
