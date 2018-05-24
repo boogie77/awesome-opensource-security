@@ -18,6 +18,10 @@ Suite
 * [google/grr -Rapid Response: remote live forensics for incident response](https://github.com/google/grr)
 * [davehull/Kansa - A Powershell incident response framework](https://github.com/davehull/Kansa)
 
+Memory forensics
+
+* [google/rekall - Rekall Memory Forensic Framework](https://github.com/google/rekall)
+
 Windows
 
 * [comaeio/Hibr2Bin - Comae Hibernation File Decompressor](https://github.com/comaeio/Hibr2Bin)
