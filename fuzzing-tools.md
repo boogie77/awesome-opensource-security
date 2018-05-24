@@ -21,6 +21,7 @@ Network
 * [denandz/fuzzotron - A TCP/UDP based network daemon fuzzer](https://github.com/denandz/fuzzotron)
 * [sogeti-esec-lab/RPCForge - Windows RPC Python fuzzer](https://github.com/sogeti-esec-lab/RPCForge)
 * [Cisco-Talos/mutiny-fuzzer - a network fuzzer that operates by replaying PCAPs through a mutational fuzzer](https://github.com/Cisco-Talos/mutiny-fuzzer)
+* [andresriancho/websocket-fuzzer - Simple HTML5 WebSocket fuzzer](https://github.com/andresriancho/websocket-fuzzer)
 
 Kernel
 

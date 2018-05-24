@@ -25,6 +25,7 @@ Pentest
 * [https://pentesterslife.blog/](https://pentesterslife.blog/)
 * [http://staaldraad.github.io/](http://staaldraad.github.io/)
 * [http://decidedlygray.com/](http://decidedlygray.com/)
+* [http://www.labofapenetrationtester.com/](http://www.labofapenetrationtester.com/)
 
 Windows security
 
