@@ -14,11 +14,13 @@ Signature database
 * [wireghoul/graudit - Grep rough audit - source code auditing tool](https://github.com/wireghoul/graudit)
 * [frizb/SourceCodeSniffer - The Source Code Sniffer is a poor man’s static code analysis tool (SCA) that leverages regular expressions](https://github.com/frizb/SourceCodeSniffer)
 
-Scanning for known vulnerability
+Detection known vulnerability
 
 * [RetireJS - Scanner detecting the use of JavaScript libraries with known vulnerabilities](https://github.com/RetireJS/retire.js)
 * [snyk.io - helps you use open source and stay secure](https://snyk.io/)
 * [nodesecurity.io - Continuous Security monitoring for your node apps](https://nodesecurity.io/)
+* [OWASP Dependency Check - a utility that identifies project dependencies and checks if there are any known, publicly disclosed, vulnerabilities](https://www.owasp.org/index.php/OWASP_Dependency_Check)
+  * [【知识库】Dependency-check依赖检查工具](https://mp.weixin.qq.com/s/j37Y1rpQphFFSoAtbzSnMQ)
 
 All-in-one suite
 

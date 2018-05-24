@@ -2,15 +2,19 @@
 
 A collection of security blogs
 
-## Feeds
+## Collections
+
+Cons
+
+* [InfoCon Collection: Hacking Conference Audio and Video Archive](https://infocon.org/cons/)
+
+Feeds
 
 * [Speaker Deck](https://speakerdeck.com/)
 * [Freebuf](http://www.freebuf.com)
 * [Seebug Papers](https://paper.seebug.org/)
 * [Insecure.org Mailing List](http://insecure.org/search.html?q=info+leak)
 * [Twitter](https://twitter.com/search?q=amsi%20bypass&src=typd)
-
-## Blogs
 
 Web security
 
@@ -26,6 +30,7 @@ Pentest
 * [http://staaldraad.github.io/](http://staaldraad.github.io/)
 * [http://decidedlygray.com/](http://decidedlygray.com/)
 * [http://www.labofapenetrationtester.com/](http://www.labofapenetrationtester.com/)
+* [http://www.moonsec.com/](http://www.moonsec.com/)
 
 Windows security
 
@@ -121,6 +126,7 @@ Forums
 
 * [https://0x00sec.org/](https://0x00sec.org/)
 * [https://www.t00ls.net/Penetration-articles.html](https://www.t00ls.net/Penetration-articles.html)
+* [https://xz.aliyun.com/](https://xz.aliyun.com/)
 
 Uncategorized
 

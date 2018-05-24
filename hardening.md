@@ -36,11 +36,6 @@ Firefox
 
 * [pyllyukko/user.js - Firefox configuration hardening](https://github.com/pyllyukko/user.js)
 
-Source code tools
-
-* [OWASP Dependency Check - a utility that identifies project dependencies and checks if there are any known, publicly disclosed, vulnerabilities](https://www.owasp.org/index.php/OWASP_Dependency_Check)
-  * [【知识库】Dependency-check依赖检查工具](https://mp.weixin.qq.com/s/j37Y1rpQphFFSoAtbzSnMQ)
-
 Sandbox
 
 * [adtac/fssb - A filesystem sandbox for Linux using syscall intercepts](https://github.com/adtac/fssb)
