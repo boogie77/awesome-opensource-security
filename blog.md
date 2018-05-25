@@ -101,6 +101,7 @@ Vulnerability research
 * [http://www.exploit-monday.com/](http://www.exploit-monday.com/)
 * [https://blog.xpnsec.com/](https://blog.xpnsec.com/)
 * [https://blog.flanker017.me/](https://blog.flanker017.me/)
+* [https://jmpesp.me/](https://jmpesp.me/)
 
 Browser security
 
