@@ -50,10 +50,11 @@ Webshell detection
 * [nbs-system/php-malware-finder - Detect potentially malicious PHP files](https://github.com/nbs-system/php-malware-finder)
 * [emposha/PHP-Shell-Detector - a php script that helps you find and identify php/cgi(perl)/asp/aspx shells](https://github.com/emposha/PHP-Shell-Detector)
 
-Monitor
+Monitoring
 
 * [realparisi/WMI_Monitor - Log newly created WMI consumers and processes](https://github.com/realparisi/WMI_Monitor)
 * [luctalpe/WMIMon - Tool to monitor WMI activity on Windows](https://github.com/luctalpe/WMIMon)
+* [9b/chirp - Interface to manage and centralize Google Alert information](https://github.com/9b/chirp)
 * [facebook/osquery - SQL powered operating system instrumentation, monitoring, and analytics](https://github.com/facebook/osquery)
   * [BlueHat v17 || Detecting Compromise on Windows Endpoints with Osquery](https://www.slideshare.net/MSbluehat/bluehat-v17-detecting-compromise-on-windows-endpoints-with-osquery-84024735)
   

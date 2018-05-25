@@ -45,6 +45,10 @@ Linux
 * [lukdog/backtolife - Memory forensic tool for process resurrection starting from a memory dump](https://github.com/lukdog/backtolife)
 * [eurecom-s3/linux_screenshot_xwindows - Volatility plugin to extract X screenshots from a memory dump](https://github.com/eurecom-s3/linux_screenshot_xwindows)
 
+Browser
+
+* [Busindre/dumpzilla - Extract all forensic interesting information of Firefox, Iceweasel and Seamonkey browsers](https://github.com/Busindre/dumpzilla)
+
 Mobile
 
 * [andreas-mausch/whatsapp-viewer - Small tool to display chats from the Android msgstore.db database (crypt12)](https://github.com/andreas-mausch/whatsapp-viewer)

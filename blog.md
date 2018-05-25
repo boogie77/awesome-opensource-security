@@ -78,6 +78,7 @@ Reverse engineering
 * [http://www.hexacorn.com/blog/](http://www.hexacorn.com/blog/)
 * [https://signal11.io/](https://signal11.io/)
 * [https://lifeinhex.com/](https://lifeinhex.com/)
+* [http://www.hexblog.com/](http://www.hexblog.com/)
 
 Vulnerability research
 

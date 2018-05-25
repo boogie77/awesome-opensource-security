@@ -124,6 +124,7 @@ Mac
 * [wzqcongcong/macSubstrate - Substrate for macOS](https://github.com/wzqcongcong/macSubstrate)
 * [malus-security/sandblaster - the first tool that reverses binary sandbox profiles to their original SBPL format](https://github.com/malus-security/sandblaster)
 * [steven-michaud/HookCase - Tool for reverse engineering macOS/OS X](https://github.com/steven-michaud/HookCase)
+* [SUpraudit - An actually useful praudit(1) for MacOS](http://newosxbook.com/tools/supraudit.html)
 
 iOS
 
