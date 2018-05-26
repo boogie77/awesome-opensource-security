@@ -80,6 +80,10 @@ Reverse engineering
 * [https://lifeinhex.com/](https://lifeinhex.com/)
 * [http://www.hexblog.com/](http://www.hexblog.com/)
 
+Malware analysis
+
+* [https://fumik0.com/](https://fumik0.com/)
+
 Vulnerability research
 
 * [http://tacxingxing.com/](http://tacxingxing.com/)
