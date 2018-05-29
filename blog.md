@@ -22,6 +22,10 @@ Web security
 * [http://blog.blindspotsecurity.com/](http://blog.blindspotsecurity.com/)
 * [https://ricterz.me/](https://ricterz.me/)
 
+Threat hunting
+
+* [https://www.eideon.com/](https://www.eideon.com/)
+
 Pentest
 
 * [http://www.harmj0y.net/blog/](http://www.harmj0y.net/blog/)

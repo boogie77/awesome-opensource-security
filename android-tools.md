@@ -60,10 +60,6 @@ Unpacking
 * [DrizzleRisk/TUnpacker - TUnpacker是一款Android脱壳工具](https://github.com/DrizzleRisk/TUnpacker)
 * [smartdone/dexdump - 快速脱一代壳的xposed插件](https://github.com/smartdone/dexdump)
 
-Auxiliary
-
-* [google/python-ad - Python ADB + Fastboot implementation](https://github.com/google/python-adb)
-
 Instrumentation
 
 * [frida - Dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers](https://github.com/frida/frida)
@@ -78,6 +74,14 @@ Instrumentation
 * [rrrfff/AndHook - Android hook framework](https://github.com/rrrfff/AndHook)
 * [AndroidHooker/hooker - an opensource project for dynamic analyses of Android applications](https://github.com/AndroidHooker/hooker)
 * [iqiyi/xHook - a PLT (Procedure Linkage Table) hook library for Android native ELF (executable and shared libraries)](https://github.com/iqiyi/xHook)
+* Xposed module
+  * [pylerSM/NoDeviceCheck - [Xposed module] Disable SafeAPI device compatibility check](https://github.com/pylerSM/NoDeviceCheck)
+  * [ac-pm/SSLUnpinning_Xposed - Android Xposed Module to bypass SSL certificate validation (Certificate Pinning)](https://github.com/ac-pm/SSLUnpinning_Xposed)
+
+Hooking
+
+* [ele7enxxh/Android-Inline-Hook - thumb16/thumb32/arm32/inline hook library for Android](https://github.com/ele7enxxh/Android-Inline-Hook)
+* [nccgroup/assethook - an LD_PRELOAD-based hooking library that allows for replacing APK asset files dynamically without modifying an APK](https://github.com/nccgroup/assethook)
 
 Analysis framework / Integrated Environment
 
@@ -99,11 +103,6 @@ Fastboot tool
 
 * [alephsecurity/abootool - Simple tool to dynamically discover hidden fastboot OEM commands based on static knowledge](https://github.com/alephsecurity/abootool)
 
-Xposed module
-
-* [pylerSM/NoDeviceCheck - [Xposed module] Disable SafeAPI device compatibility check](https://github.com/pylerSM/NoDeviceCheck)
-* [ac-pm/SSLUnpinning_Xposed - Android Xposed Module to bypass SSL certificate validation (Certificate Pinning)](https://github.com/ac-pm/SSLUnpinning_Xposed)
-
 Forensics
 
 * [ProjectRetroScope/RetroScope - Android memory forensics framework](https://github.com/ProjectRetroScope/RetroScope)
@@ -111,11 +110,6 @@ Forensics
 VM detection
 
 * [bunnyblue/AntiVM - android emulator detection](https://github.com/bunnyblue/AntiVM)
-
-Hooking
-
-* [ele7enxxh/Android-Inline-Hook - thumb16/thumb32/arm32/inline hook library for Android](https://github.com/ele7enxxh/Android-Inline-Hook)
-* [nccgroup/assethook - an LD_PRELOAD-based hooking library that allows for replacing APK asset files dynamically without modifying an APK](https://github.com/nccgroup/assethook)
 
 3rdparty OS
 
@@ -127,6 +121,8 @@ Packer
 
 Uncategorized
 
+* [google/python-ad - Python ADB + Fastboot implementation](https://github.com/google/python-adb)
+* [Genymobile/gnirehtet - Gnirehtet provides reverse tethering for Android](https://github.com/Genymobile/gnirehtet)
 * [UltimateHackers/Diggy - Extract enpoints from apk files](https://github.com/UltimateHackers/Diggy)
 * [oranav/i9300_emmc_toolbox - Samsung Galaxy S3 GT-I9300 eMMC toolbox](https://github.com/oranav/i9300_emmc_toolbox)
 * [Genymobile/scrcpy - Display and control your Android device](https://github.com/Genymobile/scrcpy)
