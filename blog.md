@@ -79,6 +79,7 @@ Reverse engineering
 * [https://signal11.io/](https://signal11.io/)
 * [https://lifeinhex.com/](https://lifeinhex.com/)
 * [http://www.hexblog.com/](http://www.hexblog.com/)
+* [https://revers.engineering/](https://revers.engineering/)
 
 Malware analysis
 
