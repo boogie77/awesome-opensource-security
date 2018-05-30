@@ -62,6 +62,7 @@ Uncategorized
 * [deepinstinct/dsc_fix - Aids in reverse engineering libraries from dyld_shared_cache in IDA](https://github.com/deepinstinct/dsc_fix)
 * [a1ext/auto_re - IDA PRO auto-renaming plugin with tagging support](https://github.com/a1ext/auto_re)
 * [danigargu/heap-viewer - An IDA Pro plugin to examine the glibc heap, focused on exploit development](https://github.com/danigargu/heap-viewer)
+* [nirizr/idasix - IDAPython compatibility library, aims to create a smooth ida development process and allow a single codebase to function with multiple IDA/IDAPython versions](https://github.com/nirizr/idasix)
 
 ## Binary ninja plugins
 
@@ -97,6 +98,7 @@ Uncategorized
 * [agustingianni/symrepl - a small utility that helps you investigate the type information inside binaries](https://github.com/agustingianni/symrepl)
 * [NetSPI/PESecurity - PowerShell module to check if a Windows binary (EXE/DLL) has been compiled with ASLR, DEP, SafeSEH, StrongNaming, and Authenticode](https://github.com/NetSPI/PESecurity)
 * [HarmJ0y/pylnker - a Python port of lnk-parse-1.0, a tool to parse Windows .lnk files](https://github.com/HarmJ0y/pylnker)
+* [iGio90/uDdbg - A gdb like debugger that provide a runtime env to unicorn emulator and additionals features!](https://github.com/iGio90/uDdbg)
 
 Protocol / traffic analysis
 

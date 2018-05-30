@@ -50,6 +50,11 @@ Browser
 
 * [Busindre/dumpzilla - Extract all forensic interesting information of Firefox, Iceweasel and Seamonkey browsers](https://github.com/Busindre/dumpzilla)
 
+Disk tools
+
+* [KBNLresearch/isolyzer - Verify size of ISO 9660 image against Volume Descriptor fields](https://github.com/KBNLresearch/isolyzer)
+* [ntfsfix - Rescuing a broken NTFS filesystem](https://marcan.st/2015/10/rescuing-a-broken-ntfs-filesystem/)
+
 Mobile
 
 * [andreas-mausch/whatsapp-viewer - Small tool to display chats from the Android msgstore.db database (crypt12)](https://github.com/andreas-mausch/whatsapp-viewer)
