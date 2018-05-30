@@ -30,6 +30,7 @@ Windows
 * [fox-it/danderspritz-evtx - Parse evtx files and detect use of the DanderSpritz eventlogedit module](https://github.com/fox-it/danderspritz-evtx)
 * [PowerShellMafia/CimSweep - a suite of CIM/WMI-based tools that enable the ability to perform incident response and hunting operations remotely across all versions of Windows](https://github.com/PowerShellMafia/CimSweep)
 * [mgreen27/Powershell-IR - Invoke-LiveResponse](https://github.com/mgreen27/Powershell-IR)
+* [sysinsider/usbtracker - Quick & dirty coded incident response and forensics python script to track USB devices events and artifacts in a Windows OS (Vista and later)](https://github.com/sysinsider/usbtracker)
 
 Mac
 
