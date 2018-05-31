@@ -58,6 +58,7 @@ Monitoring
 * [9b/chirp - Interface to manage and centralize Google Alert information](https://github.com/9b/chirp)
 * [facebook/osquery - SQL powered operating system instrumentation, monitoring, and analytics](https://github.com/facebook/osquery)
   * [BlueHat v17 || Detecting Compromise on Windows Endpoints with Osquery](https://www.slideshare.net/MSbluehat/bluehat-v17-detecting-compromise-on-windows-endpoints-with-osquery-84024735)
+  * [trailofbits/osquery-extensions - Trail of Bits osquery Extensions](https://github.com/trailofbits/osquery-extensions)
 * [elastic/beats - Beats - Lightweight shippers for Elasticsearch & Logstash](https://github.com/elastic/beats)
 
 Powershell
