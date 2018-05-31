@@ -41,6 +41,7 @@ Uncategorized
 
 * [CboeSecurity/password_pwncheck - Kerberos / Windows AD / Linux PAM password change check against breached lists (HIBP), and other rules](https://github.com/CboeSecurity/password_pwncheck)
 * [guardicore/azure_password_harvesting - Plaintext Password harvesting from Azure Windows VMs](https://github.com/guardicore/azure_password_harvesting)
+* [thewhiteh4t/pwnedOrNot - Python Script to Find Passwords for Compromised Email Accounts using haveibeenpwned API](https://github.com/thewhiteh4t/pwnedOrNot)
 
 ## Tutorials
 
