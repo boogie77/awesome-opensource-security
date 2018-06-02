@@ -37,6 +37,7 @@ Assessments
 
 Uncategorized
 
+* [AloneMonkey/frida-ios-dump - pull decrypted ipa from jailbreak device](https://github.com/AloneMonkey/frida-ios-dump)
 * [thehappydinoa/iOSRestrictionBruteForce - Crack iOS Restriction Passcodes with Python](https://github.com/thehappydinoa/iOSRestrictionBruteForce)
 * [Proteas/unstripped-ios-kernels - Unstripped iOS Kernels](https://github.com/Proteas/unstripped-ios-kernels)
 * [mwrlabs/needle - The iOS Security Testing Framework](https://github.com/mwrlabs/needle)
