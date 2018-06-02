@@ -41,6 +41,10 @@ Linux kernel
 
 * [LKRG - Linux Kernel Runtime Guard](http://www.openwall.com/lkrg/)
 
+Rootkit detection
+
+* [David-Reguera-Garcia-Dreg/lsrootkit - via GID bruteforcing](https://github.com/David-Reguera-Garcia-Dreg/lsrootkit)
+
 Windows AD
 
 * [PingCastle example report](https://www.pingcastle.com/PingCastleFiles/ad_hc_test.mysmartlogon.com.html#S-ADRegistration)

@@ -67,21 +67,21 @@ Instrumentation
    * [VerSprite/engage - Scripts and Resources for the Frida Engage Blog Series](https://github.com/VerSprite/engage)
    * [Mind0xP/Frida-Python-Binding - Easy to use Frida python binding script](https://github.com/Mind0xP/Frida-Python-Binding)
 * [samsung/adbi - Android Dynamic Binary Instrumentation tool for tracing Android native layer](https://github.com/samsung/adbi)
-* [ac-pm/Inspeckage - Android Package Inspector - dynamic analysis with api hooks, start unexported activities and more. (Xposed Module)](https://github.com/ac-pm/Inspeckage)
 * [asLody/legend - a Hook framework for Android Development, it allows you to Hook Java methods without ROOT](https://github.com/asLody/legend)
-* [rk700/YAHFA - Yet Another Hook Framework for ART](https://github.com/rk700/YAHFA)
 * [android-hacker/VirtualXposed - A Simple App to use Xposed without root or unlock the bootloader(or modify system image etc)](https://github.com/android-hacker/VirtualXposed/blob/exposed/CHINESE.md)
 * [rrrfff/AndHook - Android hook framework](https://github.com/rrrfff/AndHook)
 * [AndroidHooker/hooker - an opensource project for dynamic analyses of Android applications](https://github.com/AndroidHooker/hooker)
-* [iqiyi/xHook - a PLT (Procedure Linkage Table) hook library for Android native ELF (executable and shared libraries)](https://github.com/iqiyi/xHook)
 * Xposed module
   * [pylerSM/NoDeviceCheck - [Xposed module] Disable SafeAPI device compatibility check](https://github.com/pylerSM/NoDeviceCheck)
   * [ac-pm/SSLUnpinning_Xposed - Android Xposed Module to bypass SSL certificate validation (Certificate Pinning)](https://github.com/ac-pm/SSLUnpinning_Xposed)
+  * [ac-pm/Inspeckage - Android Package Inspector - dynamic analysis with api hooks, start unexported activities and more. (Xposed Module)](https://github.com/ac-pm/Inspeckage)
 
 Hooking
 
 * [ele7enxxh/Android-Inline-Hook - thumb16/thumb32/arm32/inline hook library for Android](https://github.com/ele7enxxh/Android-Inline-Hook)
 * [nccgroup/assethook - an LD_PRELOAD-based hooking library that allows for replacing APK asset files dynamically without modifying an APK](https://github.com/nccgroup/assethook)
+* [iqiyi/xHook - a PLT (Procedure Linkage Table) hook library for Android native ELF (executable and shared libraries)](https://github.com/iqiyi/xHook)
+* [rk700/YAHFA - Yet Another Hook Framework for ART](https://github.com/rk700/YAHFA)
 
 Analysis framework / Integrated Environment
 
@@ -98,6 +98,7 @@ Analysis framework / Integrated Environment
 * [AndroidVTS/android-vts - Android Vulnerability Test Suite](https://github.com/AndroidVTS/android-vts)
 * [Qrilee/ApkToolBox - ApkTool Box，Apk集成反编译工具箱](https://github.com/Qrilee/ApkToolBox)
 * [abhi-r3v0/Adhrit - an open source Android APK reversing and analysis tool that can help secuity researchers and CTF enthusiasts alike](https://github.com/abhi-r3v0/Adhrit/)
+* [1N3/ReverseAPK - Quickly analyze and reverse engineer Android packages](https://github.com/1N3/ReverseAPK)
 
 Fastboot tool
 
@@ -121,6 +122,7 @@ Packer
 
 Uncategorized
 
+* [anbox - a container-based approach to boot a full Android system on a regular GNU/Linux system](https://github.com/anbox/anbox)
 * [google/python-ad - Python ADB + Fastboot implementation](https://github.com/google/python-adb)
 * [Genymobile/gnirehtet - Gnirehtet provides reverse tethering for Android](https://github.com/Genymobile/gnirehtet)
 * [UltimateHackers/Diggy - Extract enpoints from apk files](https://github.com/UltimateHackers/Diggy)
