@@ -24,9 +24,10 @@ Windows AD
 * [cyberark/ACLight - A script for advanced discovery of Privileged Accounts - includes Shadow Admins](https://github.com/cyberark/ACLight)
 * [ANSSI-FR/AD-permissions - Active Directory permissions (ACL/ACE) auditing tools](https://github.com/ANSSI-FR/AD-permissions)
 
-Linux kernel
+Linux
 
 * [openwall: LKRG - Linux Kernel Runtime Guard](http://www.openwall.com/lkrg/)
+* [trimstray/otseca - Open source security auditing tool to search and dump system configuration. It allows you to generate reports in HTML or RAW-HTML formats](https://github.com/trimstray/otseca)
 
 SQLServer
 
@@ -38,6 +39,7 @@ Firefox
 
 Sandbox
 
+* [kkamagui/shadow-box-for-x86 - Lightweight and Practical Kernel Protector for x86](https://github.com/kkamagui/shadow-box-for-x86)
 * [adtac/fssb - A filesystem sandbox for Linux using syscall intercepts](https://github.com/adtac/fssb)
 * [google/nsjail - A light-weight process isolation tool, making use of Linux namespaces and seccomp-bpf syscall filters](https://github.com/google/nsjail)
    * [Tutorial: Sandboxing ImageMagick with nsjail](https://offbyinfinity.com/2017/12/sandboxing-imagemagick-with-nsjail/)
