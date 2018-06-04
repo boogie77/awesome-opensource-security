@@ -142,9 +142,9 @@ Dataset
 
 * [splunk/botsv1 - Boss of the SOC (BOTS) Dataset Version 1](https://github.com/splunk/botsv1)
 
-## Books
+## Resources
 
-* [OWASP - Automated Threat Handbook - Web Applications](https://www.owasp.org/images/3/33/Automated-threat-handbook.pdf)
+* [A source for pcap files and malware samples](http://www.malware-traffic-analysis.net/)
 
 ## Tutorials
 
@@ -156,6 +156,10 @@ Uncategorized
 * [Establishing a Baseline for Remote Desktop Protocol](https://www.fireeye.com/blog/threat-research/2018/04/establishing-a-baseline-for-remote-desktop-protocol.html)
 * [Disrupting the Empire: Identifying PowerShell Empire Command and Control Activity](https://www.sans.org/reading-room/whitepapers/incident/disrupting-empire-identifying-powershell-empire-command-control-activity-38315)
 * [OffensiveSplunk vs. Grep](https://vincentyiu.co.uk/offensivesplunk/)
+
+Books
+
+* [OWASP - Automated Threat Handbook - Web Applications](https://www.owasp.org/images/3/33/Automated-threat-handbook.pdf)
 
 Frameworks
 
