@@ -111,6 +111,7 @@ Sandbox analysis
 Phishing
 
 * [wesleyraptor/streamingphish - Python-based utility that uses supervised machine learning to detect phishing domains from the Certificate Transparency log network](https://github.com/wesleyraptor/streamingphish)
+* [OpenPhish - Phishing Intelligence](https://openphish.com/)
 
 Uncategorized
 
