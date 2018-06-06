@@ -12,13 +12,14 @@ Cryptomining
 
 * [1lastBr3ath/drmine - Dr. Mine is a node script written to aid automatic detection of in-browser cryptojacking](https://github.com/1lastBr3ath/drmine)  
 
-Sniffer / packet analysis
+Traffic analysis
 
 * [dirtbags/pcapdb - A Distributed, Search-Optimized Full Packet Capture System](https://github.com/dirtbags/pcapdb)
 * [TravisFSmith/SweetSecurity - Network Security Monitoring on Raspberry Pi type devices](https://github.com/TravisFSmith/SweetSecurity)
 * [noddos - Noddos client](https://github.com/noddos/noddos)
 * [Suricata - a free and open source, mature, fast and robust network threat detection engine](https://suricata-ids.org/)
 * [aol/moloch - Moloch is an open source, large scale, full packet capturing, indexing, and database system](https://github.com/aol/moloch)
+* [stamparm/maltrail - Malicious traffic detection system](https://github.com/stamparm/maltrail)
 
 Host based detection tools / endpoint tools
 
