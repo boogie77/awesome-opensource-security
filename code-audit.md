@@ -51,6 +51,7 @@ Java
 Python
 
 * [python-security/pyt - A Static Analysis Tool for Detecting Security Vulnerabilities in Python Web Applications](https://github.com/python-security/pyt)
+* [PyCQA/bandit - a tool designed to find common security issues in Python code](https://github.com/PyCQA/bandit)
 
 PHP
 
