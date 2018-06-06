@@ -70,6 +70,7 @@ Instrumentation
 * [asLody/legend - a Hook framework for Android Development, it allows you to Hook Java methods without ROOT](https://github.com/asLody/legend)
 * [android-hacker/VirtualXposed - A Simple App to use Xposed without root or unlock the bootloader(or modify system image etc)](https://github.com/android-hacker/VirtualXposed/blob/exposed/CHINESE.md)
 * [rrrfff/AndHook - Android hook framework](https://github.com/rrrfff/AndHook)
+* [tiann/epic - Dynamic java method AOP hook for Android(continution of Dexposed on ART), Supporting 4.0~8.1](https://github.com/tiann/epic)
 * [AndroidHooker/hooker - an opensource project for dynamic analyses of Android applications](https://github.com/AndroidHooker/hooker)
 * Xposed module
   * [pylerSM/NoDeviceCheck - [Xposed module] Disable SafeAPI device compatibility check](https://github.com/pylerSM/NoDeviceCheck)
