@@ -23,7 +23,7 @@ Data analysis
 Auxiliary tools
 
 * [vysec/MorphHTA - Morphing Cobalt Strike's evil.HTA](https://github.com/vysec/MorphHTA)
-* [/Mr-Un1k0d3r/SCT-obfuscator - Cobalt Strike SCT payload obfuscator](https://github.com/Mr-Un1k0d3r/SCT-obfuscator)
+* [Mr-Un1k0d3r/SCT-obfuscator - Cobalt Strike SCT payload obfuscator](https://github.com/Mr-Un1k0d3r/SCT-obfuscator)
 * [threatexpress/cs2modrewrite - Convert Cobalt Strike profiles to modrewrite scripts](https://github.com/threatexpress/cs2modrewrite)
 
 ## Tutorials
