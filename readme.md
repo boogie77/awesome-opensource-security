@@ -32,4 +32,4 @@ A list of interesting stuffs that I have no time to test/review.
 ## 3rdpart lists
 
 * [DropsOfZut/awesome-security-weixin-official-accounts - 网络安全类公众号推荐，欢迎大家推荐](https://github.com/DropsOfZut/awesome-security-weixin-official-accounts)
-
+* [tom0li/collection-document - 优质安全文章，长期更新](https://github.com/tom0li/collection-document)
