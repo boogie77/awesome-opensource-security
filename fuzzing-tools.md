@@ -63,6 +63,7 @@ Uncategorized
 ](https://github.com/aoh/radamsa)
 * [MozillaSecurity/peach - a fuzzing framework which uses a DSL for building fuzzers and an observer based architecture to execute and monitor them](https://github.com/MozillaSecurity/peach)
 * [Windows IPC Fuzzing Tools](https://www.nccgroup.trust/us/about-us/resources/windows-ipc-fuzzing-tools/)
+* [jakobbotsch/Fuzzlyn - Fuzzer for the .NET toolchains](https://github.com/jakobbotsch/Fuzzlyn)
 
 ## Test cases
 

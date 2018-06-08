@@ -66,6 +66,7 @@ Instrumentation
    * [brompwnie/uitkyk - Android Frida library to hunt Android Malware](https://github.com/brompwnie/uitkyk)
    * [VerSprite/engage - Scripts and Resources for the Frida Engage Blog Series](https://github.com/VerSprite/engage)
    * [Mind0xP/Frida-Python-Binding - Easy to use Frida python binding script](https://github.com/Mind0xP/Frida-Python-Binding)
+   * [roxanagogonea/frida-scripts - Frida scripts](https://gitlab.com/roxanagogonea/frida-scripts)
 * [samsung/adbi - Android Dynamic Binary Instrumentation tool for tracing Android native layer](https://github.com/samsung/adbi)
 * [asLody/legend - a Hook framework for Android Development, it allows you to Hook Java methods without ROOT](https://github.com/asLody/legend)
 * [android-hacker/VirtualXposed - A Simple App to use Xposed without root or unlock the bootloader(or modify system image etc)](https://github.com/android-hacker/VirtualXposed/blob/exposed/CHINESE.md)
