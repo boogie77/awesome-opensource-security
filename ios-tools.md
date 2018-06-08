@@ -8,6 +8,7 @@ A collection of open source iOS tools
 
 * [ansjdnakjdnajkd/iOS - Most usable tools for iOS penetration testing](https://github.com/ansjdnakjdnajkd/iOS)
 * [OpenJailbreak - Apple tools. Built from scratch. For the community. Get involved](https://github.com/OpenJailbreak)
+* [Siguza/ios-resources - Useful resources for iOS hacking](https://github.com/Siguza/ios-resources)
 
 Jailbreak
 

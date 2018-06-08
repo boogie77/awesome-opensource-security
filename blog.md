@@ -137,6 +137,7 @@ Paper / magazines
 
 Forums
 
+* [https://isc.sans.edu/](https://isc.sans.edu/)
 * [https://0x00sec.org/](https://0x00sec.org/)
 * [https://www.t00ls.net/Penetration-articles.html](https://www.t00ls.net/Penetration-articles.html)
 * [https://xz.aliyun.com/](https://xz.aliyun.com/)
