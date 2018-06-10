@@ -38,6 +38,7 @@ Assessments
 
 Uncategorized
 
+* [nowsecure/node-applesign - NodeJS module and commandline utility for re-signing iOS applications (IPA files).](https://github.com/nowsecure/node-applesign)
 * [AloneMonkey/frida-ios-dump - pull decrypted ipa from jailbreak device](https://github.com/AloneMonkey/frida-ios-dump)
 * [thehappydinoa/iOSRestrictionBruteForce - Crack iOS Restriction Passcodes with Python](https://github.com/thehappydinoa/iOSRestrictionBruteForce)
 * [Proteas/unstripped-ios-kernels - Unstripped iOS Kernels](https://github.com/Proteas/unstripped-ios-kernels)
@@ -51,7 +52,7 @@ Uncategorized
 
 Books
 
-* [Hacking iOS Applications ](https://web.securityinnovation.com/hubfs/iOS%20Hacking%20Guide.pdf)
+* [Hacking iOS Applications](https://web.securityinnovation.com/hubfs/iOS%20Hacking%20Guide.pdf)
 * [Oreilly.Hacking.and.Securing.iOS.Applications.Jan.2012](https://doc.lagout.org/security/Oreilly%20Hacking%20and%20Securing%20iOS%20Applications%20Jan%202012/Oreilly.Hacking.and.Securing.iOS.Applications.Jan.2012.pdf)
 
 Tutorials

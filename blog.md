@@ -114,6 +114,7 @@ Vulnerability research
 * [https://blog.xpnsec.com/](https://blog.xpnsec.com/)
 * [https://blog.flanker017.me/](https://blog.flanker017.me/)
 * [https://jmpesp.me/](https://jmpesp.me/)
+* [https://insinuator.net/](https://insinuator.net/)
 
 Browser security
 
