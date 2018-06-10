@@ -44,6 +44,10 @@ Sandbox
 * [google/nsjail - A light-weight process isolation tool, making use of Linux namespaces and seccomp-bpf syscall filters](https://github.com/google/nsjail)
    * [Tutorial: Sandboxing ImageMagick with nsjail](https://offbyinfinity.com/2017/12/sandboxing-imagemagick-with-nsjail/)
 
+Deception
+
+* [bhdresh/Dejavu - DejaVU - Open Source Deception Framework](https://github.com/bhdresh/Dejavu)
+
 ## Tutorials
 
 * [Hardening Microsoft Windows 10 version 1709 Workstations](https://www.asd.gov.au/publications/protect/Hardening_Win10.pdf)

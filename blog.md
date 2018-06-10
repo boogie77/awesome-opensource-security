@@ -47,6 +47,7 @@ Windows security
 * [https://homjxi0e.wordpress.com/](https://homjxi0e.wordpress.com/)
 * [https://enigma0x3.net/](https://enigma0x3.net/)
 * [https://rastamouse.me/](https://rastamouse.me/)
+* [https://sid-500.com/](https://sid-500.com/)
 
 Linux security
 
