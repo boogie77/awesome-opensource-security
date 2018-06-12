@@ -21,6 +21,7 @@ Web security
 * [http://blog.portswigger.net/](http://blog.portswigger.net/)
 * [http://blog.blindspotsecurity.com/](http://blog.blindspotsecurity.com/)
 * [https://ricterz.me/](https://ricterz.me/)
+* [https://leucosite.com/](https://leucosite.com/)
 
 Threat hunting
 
