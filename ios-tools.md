@@ -38,6 +38,7 @@ Assessments
 
 Uncategorized
 
+* [bazad/macho_gadgets - A tool to find gadgets in the iOS kernelcache](https://github.com/bazad/macho_gadgets)
 * [nowsecure/node-applesign - NodeJS module and commandline utility for re-signing iOS applications (IPA files).](https://github.com/nowsecure/node-applesign)
 * [AloneMonkey/frida-ios-dump - pull decrypted ipa from jailbreak device](https://github.com/AloneMonkey/frida-ios-dump)
 * [thehappydinoa/iOSRestrictionBruteForce - Crack iOS Restriction Passcodes with Python](https://github.com/thehappydinoa/iOSRestrictionBruteForce)

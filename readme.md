@@ -33,3 +33,5 @@ A list of interesting stuffs that I have no time to test/review.
 
 * [DropsOfZut/awesome-security-weixin-official-accounts - 网络安全类公众号推荐，欢迎大家推荐](https://github.com/DropsOfZut/awesome-security-weixin-official-accounts)
 * [tom0li/collection-document - 优质安全文章，长期更新](https://github.com/tom0li/collection-document)
+* [1337list/ephemera-miscellany/hackertalkytalk.md - List of Helpful Information Security Multimedia](https://github.com/1337list/ephemera-miscellany/blob/master/hackertalkytalk.md)
+

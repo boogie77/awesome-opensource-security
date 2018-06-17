@@ -7,6 +7,8 @@ A collection of open source MacOS tools
 Monitoring
 
 * [objective-see/sniffMK - sniff mouse and keyboard events](https://github.com/objective-see/sniffMK)
+* [droe/xnumon - monitor macOS for malicious activity](https://github.com/droe/xnumon)
+* [google/santa - A binary whitelisting/blacklisting system for Mac OS X](https://github.com/google/santa)
 
 Uncategorized
 
