@@ -61,6 +61,10 @@ Tutorials
 * [felixgr/secure-ios-app-dev - Collection of the most common vulnerabilities found in iOS applications](https://github.com/felixgr/secure-ios-app-dev)
 * [iOS Application Security Review Methodology](http://research.aurainfosec.io/ios-application-security-review-methodology/)
 
+Exploit writeups
+
+* [writeups/iOS - Here you can find write ups for iOS Vulnerabilities that have been released](https://github.com/writeups/iOS)
+
 ## Other resources
 
 * [OS X/iOS Entitlement Database](http://newosxbook.com/ent.jl?ent=&osVer=MacOS13)
