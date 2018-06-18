@@ -15,6 +15,10 @@ Sniffing
 * [xdavidhu/probeSniffer - A tool for sniffing unencrypted wireless probe requests from devices](https://github.com/xdavidhu/probeSniffer)
 * [tehw0lf/airbash - a fully automated WPA PSK handshake capture script aimed at penetration testing](https://github.com/tehw0lf/airbash)
 
+Probing
+
+* [SkypLabs/probequest - Toolkit for Playing with Wi-Fi Probe Requests](https://github.com/SkypLabs/probequest)
+
 Jamming
 
 * [DanMcInerney/wifijammer - Continuously jam all wifi clients and access points within range](https://github.com/DanMcInerney/wifijammer)
