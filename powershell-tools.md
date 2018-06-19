@@ -46,6 +46,10 @@ Decoder / Deobfuscation
 
 * [R3MRUM/PSDecode - PowerShell script for deobfuscating encoded PowerShell scripts](https://github.com/R3MRUM/PSDecode)
 
+Misc scripts collections
+
+* [FuzzySecurity/PowerShell-Suite - My musings with PowerShell](https://github.com/FuzzySecurity/PowerShell-Suite)
+
 Uncategorized
 
 * [trustedsec/unicorn - a simple tool for using a PowerShell downgrade attack and inject shellcode straight into memory.](https://github.com/trustedsec/unicorn)

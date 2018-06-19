@@ -34,6 +34,7 @@ Cracking
 * [x90skysn3k/brutespray - Brute-Forcing from Nmap output - Automatically attempts default creds on found services](https://github.com/x90skysn3k/brutespray)
 * [dafthack/DomainPasswordSpray - a tool written in PowerShell to perform a password spray attack against users of a domain](https://github.com/dafthack/DomainPasswordSpray)
 * [Moham3dRiahi/XBruteForcer - Brute Force Tool unlock WordPress, Joomla, Drupal, OpenCart, Magento](https://github.com/Moham3dRiahi/XBruteForcer)
+* [MrSqar-Ye/wpCrack - Wordpress offline hash cracker](https://github.com/MrSqar-Ye/wpCrack)
 * [Raikia/CredNinja - A multithreaded tool designed to identify if credentials are valid, invalid, or local admin valid credentials within a network at-scale via SMB, plus now with a user hunter](https://github.com/Raikia/CredNinja)
 * [s3inlc/hashtopolis - A Hashcat wrapper for distributed hashcracking](https://github.com/s3inlc/hashtopolis)
 * [TrustedSec/hate_crack - A tool for automating cracking methodologies through Hashcat from the TrustedSec team](https://github.com/TrustedSec/hate_crack)
