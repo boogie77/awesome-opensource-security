@@ -49,6 +49,7 @@ Decoder / Deobfuscation
 Misc scripts collections
 
 * [FuzzySecurity/PowerShell-Suite - My musings with PowerShell](https://github.com/FuzzySecurity/PowerShell-Suite)
+* [Mr-Un1k0d3r/RedTeamPowershellScripts - Powershell script that search through the Windows event logs for specific user](https://github.com/Mr-Un1k0d3r/RedTeamPowershellScripts)
 
 Uncategorized
 
