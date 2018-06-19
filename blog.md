@@ -88,6 +88,7 @@ Reverse engineering
 * [https://lifeinhex.com/](https://lifeinhex.com/)
 * [http://www.hexblog.com/](http://www.hexblog.com/)
 * [https://revers.engineering/](https://revers.engineering/)
+* [http://blog.ret2.io/](http://blog.ret2.io/)
 
 Malware analysis
 
