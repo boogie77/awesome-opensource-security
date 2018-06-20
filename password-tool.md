@@ -27,6 +27,10 @@ Password generator
 * [NotSoSecure/password_cracking_rules - One rule to crack all passwords. or atleast we hope so](https://github.com/NotSoSecure/password_cracking_rules)
 * [localh0t/m4ngl3m3 - Common password pattern generator using strings list](https://github.com/localh0t/m4ngl3m3)
 
+Recovery
+
+* [AlessandroZ/LaZagne - Credentials recovery project](https://github.com/AlessandroZ/LaZagne)
+
 Cracking
 
 * [hashview - A web front-end for password cracking and analytics](https://github.com/hashview/hashview)

@@ -21,6 +21,7 @@ Suite
 Memory forensics
 
 * [google/rekall - Rekall Memory Forensic Framework](https://github.com/google/rekall)
+  * [toolsmith – Hunting In-Memory Adversaries with Rekall and WinPmem](https://holisticinfosec.org/toolsmith/pdf/may2015.pdf)
 
 Windows
 
