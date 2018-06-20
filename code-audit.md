@@ -30,6 +30,7 @@ All-in-one suite
 C++
 
 * [vusec/typesan - TypeSan checks casts in C++ code - code released for CCS 2016](https://github.com/vusec/typesan)
+* [secure-software-engineering/phasar - A LLVM-based static analysis framework. https://phasar.org](https://github.com/secure-software-engineering/phasar/)
 
 Ruby
 
