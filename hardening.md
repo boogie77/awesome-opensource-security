@@ -28,6 +28,7 @@ Linux
 
 * [openwall: LKRG - Linux Kernel Runtime Guard](http://www.openwall.com/lkrg/)
 * [trimstray/otseca - Open source security auditing tool to search and dump system configuration. It allows you to generate reports in HTML or RAW-HTML formats](https://github.com/trimstray/otseca)
+* [a13xp0p0v/kconfig-hardened-check - A script for checking the hardening options in the Linux kernel config](https://github.com/a13xp0p0v/kconfig-hardened-check)
 
 SQLServer
 
