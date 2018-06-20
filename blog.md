@@ -118,6 +118,7 @@ Vulnerability research
 * [https://blog.flanker017.me/](https://blog.flanker017.me/)
 * [https://jmpesp.me/](https://jmpesp.me/)
 * [https://insinuator.net/](https://insinuator.net/)
+* [https://nickbloor.co.uk/](https://nickbloor.co.uk/)
 
 Browser security
 
