@@ -22,6 +22,7 @@ Web security
 * [http://blog.blindspotsecurity.com/](http://blog.blindspotsecurity.com/)
 * [https://ricterz.me/](https://ricterz.me/)
 * [https://leucosite.com/](https://leucosite.com/)
+* [https://blog.bentkowski.info/](https://blog.bentkowski.info/)
 
 Threat hunting
 
