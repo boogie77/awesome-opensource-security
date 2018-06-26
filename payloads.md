@@ -12,6 +12,7 @@ Uncategorized
 * [tennc/fuzzdb - 一个fuzzdb扩展库](https://github.com/tennc/fuzzdb)
 * [mdsecactivebreach/SharpShooter - Payload Generation Framework](https://github.com/mdsecactivebreach/SharpShooter)
   * [mdsec: Payload Generation using SharpShooter](https://www.mdsec.co.uk/2018/03/payload-generation-using-sharpshooter/)
+  * [mdsec: FreeStyling with SharpShooter v1.0](https://www.mdsec.co.uk/2018/06/freestyling-with-sharpshooter-v1-0/)
 
 XXE
 

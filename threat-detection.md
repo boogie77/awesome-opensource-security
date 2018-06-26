@@ -140,6 +140,7 @@ Tools
 * [Cyb3rWard0g/Invoke-ATTACKAPI - A PowerShell script to interact with the MITRE ATT&CK Framework via its own API](https://github.com/Cyb3rWard0g/Invoke-ATTACKAPI)
 * [CyberMonitor/Invoke-Adversary - Simulating Adversary Operations](https://github.com/CyberMonitor/Invoke-Adversary)
 * [P4T12ICK/ypsilon - an Automated Security Use Case Testing Environment using real malware to test SIEM use cases in an closed environment](https://github.com/P4T12ICK/ypsilon)
+* [n0dec/MalwLess - Test Blue Team detections without running any attack](https://github.com/n0dec/MalwLess)
 
 Dataset
 
