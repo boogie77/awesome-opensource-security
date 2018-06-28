@@ -33,6 +33,7 @@ Host based detection tools / endpoint tools
 * [ysrc/yulong-hids - 一款由 YSRC 开源的主机入侵检测系统](https://github.com/ysrc/yulong-hids)
 * [Neo23x0/Fenrir - Simple Bash IOC Scanner](https://github.com/Neo23x0/Fenrir)
 * [0x4D31/salt-scanner - Linux vulnerability scanner based on Salt Open and Vulners audit API, with Slack notifications and JIRA integration](https://github.com/0x4D31/salt-scanner)
+* [DominicBreuker/pspy - Monitor linux processes without root permissions](https://github.com/DominicBreuker/pspy)
 
 Cryptominer
 
