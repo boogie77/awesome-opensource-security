@@ -126,6 +126,7 @@ Uncategorized
 
 * [anbox - a container-based approach to boot a full Android system on a regular GNU/Linux system](https://github.com/anbox/anbox)
 * [google/python-ad - Python ADB + Fastboot implementation](https://github.com/google/python-adb)
+* [ashishb/adb-enhanced - ADB enhanced for developers](https://github.com/ashishb/adb-enhanced)
 * [Genymobile/gnirehtet - Gnirehtet provides reverse tethering for Android](https://github.com/Genymobile/gnirehtet)
 * [UltimateHackers/Diggy - Extract enpoints from apk files](https://github.com/UltimateHackers/Diggy)
 * [oranav/i9300_emmc_toolbox - Samsung Galaxy S3 GT-I9300 eMMC toolbox](https://github.com/oranav/i9300_emmc_toolbox)

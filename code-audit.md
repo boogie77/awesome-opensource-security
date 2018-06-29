@@ -37,6 +37,10 @@ Ruby
 * [thesp0nge/dawnscanner - a static analysis security scanner for ruby written web applications. It supports Sinatra, Padrino and Ruby on Rails frameworks](https://github.com/thesp0nge/dawnscanner)
 * [presidentbeef/brakeman - A static analysis security vulnerability scanner for Ruby on Rails applications](https://github.com/presidentbeef/brakeman)
 
+Linux kernel
+
+* [xairy/linux-kernel-exploitation - A bunch of links related to Linux kernel exploitation](https://github.com/xairy/linux-kernel-exploitation)
+
 NodeJS
 
 * [ajinabraham/NodeJsScan - NodeJsScan is a static security code scanner for Node.js applications](https://github.com/ajinabraham/NodeJsScan)
